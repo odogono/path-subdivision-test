@@ -1,0 +1,9 @@
+.app {
+  font-family: sans-serif;
+  text-align: center;
+  display: flex;
+}
+
+canvas {
+  background-color: #ccc;
+}
